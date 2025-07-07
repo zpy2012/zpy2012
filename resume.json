@@ -2,34 +2,43 @@
   "titleNameMap": {
     "educationList": "教育背景",
     "workExpList": "工作经历",
-    "certificationList": "资格证书",
-    "skillList": "专业技能",
-    "aboutme": "自我评价"
+    "skillList": "个人技能",
+    "awardList": "资格证书信息",
+    "aboutme": "个人评价"
   },
   "avatar": {
     "src": "https://avatars.githubusercontent.com/u/15646325?v=4",
     "hidden": true
   },
   "profile": {
-    "name": "廖晓娟 (新茗)",
-    "email": "736xxxx86@qq.com",
-    "mobile": "156xxxx7119",
-    "github": "https://github.com/visiky (1.1k 粉丝)",
-    "zhihu": "https://www.zhihu.com/people/visiky",
-    "workExpYear": ""
+    "name": "张瑜",
+    "email": "690835186@qq.com",
+    "mobile": "17601010785",
+    "github": "",
+    "zhihu": "",
+    "workExpYear": "6年"
   },
   "educationList": [
     {
       "edu_time": [
-        "2014.09.01",
-        "2018.06.30"
+        "2012.09",
+        "2015.06"
       ],
-      "school": "华南理工大学",
-      "major": "网络工程",
+      "school": "淄博师范高等专科学校",
+      "major": "数学教育与应用数学",
+      "academic_degree": "专科"
+    },
+    {
+      "edu_time": [
+        "2019.03",
+        "2021.07"
+      ],
+      "school": "山东师范大学",
+      "major": "教育学",
       "academic_degree": "本科"
     }
   ],
-  "certificationList": [
+  "awardList": [
     {
       "award_info": "英语 CET6",
       "award_time": "2015"
