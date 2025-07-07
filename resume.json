@@ -2,48 +2,57 @@
   "titleNameMap": {
     "educationList": "教育背景",
     "workExpList": "工作经历",
-    "certificationList": "资格证书",
-    "skillList": "专业技能",
-    "aboutme": "自我评价"
+    "skillList": "个人技能",
+    "awardList": "资格证书信息",
+    "aboutme": "个人评价"
   },
   "avatar": {
     "src": "https://avatars.githubusercontent.com/u/15646325?v=4",
     "hidden": true
   },
   "profile": {
-    "name": "廖晓娟 (新茗)",
-    "email": "736xxxx86@qq.com",
-    "mobile": "156xxxx7119",
-    "github": "https://github.com/visiky (1.1k 粉丝)",
-    "zhihu": "https://www.zhihu.com/people/visiky",
-    "workExpYear": ""
+    "name": "张瑜",
+    "email": "690835186@qq.com",
+    "mobile": "17601010785",
+    "github": "",
+    "zhihu": "",
+    "workExpYear": "6年"
   },
   "educationList": [
     {
       "edu_time": [
-        "2014.09.01",
-        "2018.06.30"
+        "2012.09",
+        "2015.06"
       ],
-      "school": "华南理工大学",
-      "major": "网络工程",
+      "school": "淄博师范高等专科学校",
+      "major": "数学教育与应用数学",
+      "academic_degree": "专科"
+    },
+    {
+      "edu_time": [
+        "2019.03",
+        "2021.07"
+      ],
+      "school": "山东师范大学",
+      "major": "教育学",
       "academic_degree": "本科"
     }
   ],
-  "certificationList": [
+  "awardList": [
     {
-      "award_info": "英语 CET6",
+      "award_info": "美吉姆欢动及音乐课认证教师",
       "award_time": "2015"
     },
     {
-      "award_info": "蚂蚁近卫军 卓越个人奖",
+      "award_info": "小学数学教师资格证",
       "award_time": "2018.09"
     },
     {
-      "award_info": "前端练习生 可视化讲师",
+      "award_info": "普通话水平测试等级证书：二级甲等",
       "award_time": "2020.10"
     },
     {
-      "award_info": "前端早早聊 分享 “如何构思和开发开箱即用的可视化图表库 G2Plot”",
+      "award_info": "计算机等级考试（CCT）证书",
       "award_time": "2021.07"
     }
   ],
@@ -78,7 +87,7 @@
   ],
   "skillList": [],
   "aboutme": {
-    "aboutme_desc": "🌱 多年大型项目经历，专注在可视分析领域\n1. 项目管理: 具有独立跟进和推动项目进度经验，把控研发测试交付进展。2.可视化经验: 通用组件设计和开发经验丰富，也能完成定制可视化诉求\n其它: 1. 前端早早聊 分享 “如何构思和开发开箱即用的可视化图表库 G2Plot” 2. 蚂蚁集团前端练习生 可视化讲师 3. D2论坛小游戏: https://antv.gitee.io/zh/d2, https://antv-studio.antfin.com/bless-heatmap"
+    "aboutme_desc": "毕业于师范类院校，拥有五年的早教教学经验，在早教领域积累了丰富的经验。对早教课程及幼儿教育理念的深刻了解，让我能够创造富有启发性和互动性的学习环境。作为一名教育者，我不仅注重课堂教学，更关心每个孩子的个体差异。通过积极的沟通，与家长建立了积极的关系，共同为孩子们的全面成长而努力。"
   },
   "theme": {
     "color": "#2f5785",
