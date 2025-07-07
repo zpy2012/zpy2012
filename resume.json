@@ -1,96 +1,137 @@
 {
-  "titleNameMap": {
-    "educationList": "教育背景",
-    "workExpList": "工作经历",
-    "skillList": "个人技能",
-    "awardList": "资格证书信息",
-    "aboutme": "个人评价"
-  },
-  "avatar": {
-    "src": "https://avatars.githubusercontent.com/u/15646325?v=4",
-    "hidden": true
-  },
-  "profile": {
-    "name": "张瑜",
-    "email": "690835186@qq.com",
-    "mobile": "17601010785",
-    "github": "",
-    "zhihu": "",
-    "workExpYear": "6年"
-  },
-  "educationList": [
-    {
-      "edu_time": [
-        "2012.09",
-        "2015.06"
-      ],
-      "school": "淄博师范高等专科学校",
-      "major": "数学教育与应用数学",
-      "academic_degree": "专科"
-    },
-    {
-      "edu_time": [
-        "2019.03",
-        "2021.07"
-      ],
-      "school": "山东师范大学",
-      "major": "教育学",
-      "academic_degree": "本科"
+    "titleNameMap": {
+        "educationList": "教育背景", 
+        "workExpList": "工作经历", 
+        "skillList": "个人技能", 
+        "awardList": "资格证书信息", 
+        "aboutme": "个人评价"
+    }, 
+    "avatar": {
+        "src": "https://avatars.githubusercontent.com/u/15646325?v=4", 
+        "hidden": true
+    }, 
+    "profile": {
+        "name": "张瑜", 
+        "email": "690835186@qq.com", 
+        "mobile": "17601010785", 
+        "github": "", 
+        "zhihu": "", 
+        "workExpYear": "6年"
+    }, 
+    "educationList": [
+        {
+            "edu_time": [
+                "2012.09", 
+                "2015.06"
+            ], 
+            "school": "淄博师范高等专科学校", 
+            "major": "数学教育与应用数学", 
+            "academic_degree": "专科"
+        }, 
+        {
+            "edu_time": [
+                "2019.03", 
+                "2021.07"
+            ], 
+            "school": "山东师范大学", 
+            "major": "教育学", 
+            "academic_degree": "本科"
+        }
+    ], 
+    "awardList": [
+        {
+            "award_info": "美吉姆欢动及音乐课认证教师", 
+            "award_time": "2015"
+        }, 
+        {
+            "award_info": "小学数学教师资格证", 
+            "award_time": "2018.09"
+        }, 
+        {
+            "award_info": "普通话水平测试等级证书：二级甲等", 
+            "award_time": "2020.10"
+        }, 
+        {
+            "award_info": "计算机等级考试（CCT）证书", 
+            "award_time": "2021.07"
+        }
+    ], 
+    "workExpList": [
+        {
+            "company_name": "爱真教育", 
+            "department_name": "教师部", 
+            "work_time": [
+                "2015.07", 
+                "2018.02"
+            ], 
+            "work_desc": "1. 课后辅导。
+2. 一对一及一对多教学工作。"
+        }, 
+        {
+            "company_name": "济南美吉姆早教", 
+            "department_name": "教师部", 
+            "work_time": [
+                "2018.05", 
+                "2023.12"
+            ], 
+            "work_desc": "早教教师
+1. 欢动课课程教授，为幼儿提供丰富的教育活动和游戏。
+2. 与家长沟通，分享孩子上课及参与情况。
+3. 组织并策划相关课外活动。
+
+音乐课程主管
+1. 音乐课程教授，并讲授音乐课家长说明会。
+2. 音乐课招募，组织课间音乐课示范活动。"
+        }, 
+        {
+            "company_name": "济南城市主人幼儿园", 
+            "department_name": "教师部", 
+            "work_time": [
+                "2024.04", 
+                "2024.12"
+            ], 
+            "work_desc": "前端实习生。使用 Vue 来实现平台功能和逻辑，再用 ECharts 来对数据挖掘分析后的可视化结果进行展示"
+        }
+    ], 
+    "skillList": [
+        {
+            "skill_name": "早期教育理论和实践", 
+            "skill_desc": "对早期教育的理论、方法和实践有深入的了解，能够将理论知识应用于实际教学中。"
+        }, 
+        {
+            "skill_name": "儿童行为管理", 
+            "skill_desc": "具备有效的儿童行为管理技能，能够创造积极的学习环境，促使孩子们形成良好的行为习惯。"
+        }, 
+        {
+            "skill_name": "家长沟通与合作", 
+            "skill_desc": "能够与家长建立积极的合作关系，分享孩子的学习进展，提供教育建议，并解决潜在的教育问题。"
+        }, 
+        {
+            "skill_name": "团队协作", 
+            "skill_desc": "具备团队协作的能力，能够与同事紧密合作，共同创造有利于幼儿发展的教育环境。"
+        }, 
+        {
+            "skill_name": "使用教育技术", 
+            "skill_desc": "熟练运用教育技术，包括互动式教学工具和在线资源，以增强教学效果。"
+        }, 
+        {
+            "skill_name": "观察与评估", 
+            "skill_desc": "能够通过观察和评估孩子的行为、学习兴趣和发展水平，为调整教学方法和课程提供依据。"
+        }, 
+        {
+            "skill_name": "社交技能培养", 
+            "skill_desc": "通过游戏和互动，培养幼儿的社交技能，帮助他们建立良好的人际关系。"
+        }, 
+        {
+            "skill_name": "安全管理", 
+            "skill_desc": "具备保障幼儿安全的知识和技能，能够有效应对突发状况。"
+        }
+    ], 
+    "aboutme": {
+        "aboutme_desc": "毕业于师范类院校，拥有五年的早教教学经验，在早教领域积累了丰富的经验。对早教课程及幼儿教育理念的深刻了解，让我能够创造富有启发性和互动性的学习环境。\n作为一名教育者，我不仅注重课堂教学，更关心每个孩子的个体差异。通过积极的沟通，与家长建立了积极的关系，共同为孩子们的全面成长而努力。"
+    }, 
+    "theme": {
+        "color": "#2f5785", 
+        "tagColor": "#8bc34a"
     }
-  ],
-  "awardList": [
-    {
-      "award_info": "美吉姆欢动及音乐课认证教师",
-      "award_time": "2015"
-    },
-    {
-      "award_info": "小学数学教师资格证",
-      "award_time": "2018.09"
-    },
-    {
-      "award_info": "普通话水平测试等级证书：二级甲等",
-      "award_time": "2020.10"
-    },
-    {
-      "award_info": "计算机等级考试（CCT）证书",
-      "award_time": "2021.07"
-    }
-  ],
-  "workExpList": [
-    {
-      "company_name": "蚂蚁集团",
-      "department_name": "体验技术部",
-      "work_time": [
-        "2018.06",
-        null
-      ],
-      "work_desc": "1. 担任蚂蚁高管决策和管理协同产品 “数据作战室” 的前端负责人\r\n2. 负责蚂蚁敏捷 BI 产品 “DeepInsight” 的可视分析模块产品能力建设\n3. 数据可视化 AntV 团队核心成员，负责 G2、G2Plot 开源技术的建设"
-    },
-    {
-      "company_name": "蚂蚁金服",
-      "department_name": "大数据部",
-      "work_time": [
-        "2017.06",
-        "2017.12"
-      ],
-      "work_desc": "前端实习生。使用 React 参与开发多类数据产品的研发工作，同时也参与大型 BI 产品的重构工作，有良好的编码习惯。"
-    },
-    {
-      "company_name": "数沃信息科技有限公司",
-      "department_name": "",
-      "work_time": [
-        "2017.03",
-        "2017.05"
-      ],
-      "work_desc": "前端实习生。使用 Vue 来实现平台功能和逻辑，再用 ECharts 来对数据挖掘分析后的可视化结果进行展示"
-    }
-  ],
-  "skillList": [],
-  "aboutme": {
-    "aboutme_desc": "\t毕业于师范类院校，拥有五年的早教教学经验，在早教领域积累了丰富的经验。对早教课程及幼儿教育理念的深刻了解，让我能够创造富有启发性和互动性的学习环境。\n\t作为一名教育者，我不仅注重课堂教学，更关心每个孩子的个体差异。通过积极的沟通，与家长建立了积极的关系，共同为孩子们的全面成长而努力。"
-  },
-  "theme": {
-    "color": "#2f5785",
-    "tagColor": "#8bc34a"
-  }
 }
